@@ -80,3 +80,12 @@ a:hover {
   top: -10%;
   left: calc(50% - 60px);
 }
+
+
+
+@media (max-width: 1028px){
+  .container{
+    height: 60%;
+    width: 50%;
+  }
+}
